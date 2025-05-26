@@ -1,16 +1,25 @@
-## Hi there 👋
+# Ciao, sono Gabin (Gabi)... Gabinfo98!
 
-<!--
-**Gabinfo98/Gabinfo98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Studente di Ingegneria Informatica presso UniMoRe.  
+Sviluppatore software con passione per automazione industriale, sostenibilità e tecnologie smart.
 
-Here are some ideas to get you started:
+## Tecnologie e Competenze
+- Linguaggi: Java, React Native, JavaScript, HTML, CSS, Python, C, C#
+- Sviluppo Mobile & Web: React Native, REST API, Expo
+- Automazione Industriale: PLC Siemens, Omron, HMI, cablaggio elettrico
+- Database: MySQL, SQLite
+- Dev Tools:  Docker, Tomcat, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Progetti principali
+- SpesaAppTime2 – App desktop per la gestione delle spese personali (JavaFX + SQLite)
+- AgoraTech – App mobile per la gestione intelligente dell’agricoltura (React Native + API meteo + AI irrigazione) con Vaimee una start up dell'università di bologna
+- Smart Autolavaggio – Sistema automatico con logica programmabile su PLC OMRON e interfaccia HMI
+
+## Obiettivi
+- Diventare uno sviluppatore full-stack con forti basi in automazione industriale
+- Unire software, IoT e sostenibilità per creare impatto reale
+
+## Contattami
+- Email: [gabin.leundjou@vaimee.com]
+
+- Aggiornato README del profilo
